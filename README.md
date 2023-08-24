@@ -1,1 +1,1 @@
-# Simple social network API
+# Really simple social network API
